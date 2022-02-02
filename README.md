@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ckshayin
+- 👀 I’m interested in python and SQL
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on Not sure yet
+- 📫 How to reach me ckshayin1971@gmail.com
